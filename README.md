@@ -35,8 +35,6 @@ The current mode is also printed clearly inside Magisk's output window and takes
 
 ### Cross-device compatibility
 Only touches nodes that exist on your device. No hardcoded SoC layouts.
-
-### Best-effort safety
 Every time AKTune changes a sysfs/proc node for the first time, it saves the original value so it can restore it later.
 
 ### Configurable behavior (no code edits)
@@ -395,6 +393,13 @@ Example:
 
 That combination reduces "Android jitter" on most modern kernels.
 
-## Author
+## More Apps by KaijinLab!
 
-KaijinLab (@iodn)
+| App                                                               | What it does                                                                   |
+| ----------------------------------------------------------------- | ------------------------------------------------------------------------------ |
+| **[IR Blaster](https://github.com/iodn/android-ir-blaster)**      | Control and test infrared functionality for compatible devices.                |
+| **[USBDevInfo](https://github.com/iodn/android-usb-device-info)** | Inspect USB device details and behavior to understand what's really connected. |
+| **[GadgetFS](https://github.com/iodn/gadgetfs)**          | Experiment with USB gadget functionality (hardware-adjacent, low-level).       |
+| **[TapDucky](https://github.com/iodn/tap-ducky)**                  | A security/testing tool for controlled keystroke injection workflows.          |
+| **[HIDWiggle](https://github.com/iodn/hid-wiggle)**                | A mouse jiggler built with USB gadget functionalities.           
+| **[AKTune (Android Kernel Tweaker)](https://github.com/iodn/android-kernel-tweaker)**                | Adaptive Android kernel auto-tuner for CPU/GPU/scheduler/memory/I-O. (Magisk Module).|      
