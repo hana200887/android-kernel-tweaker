@@ -1,0 +1,7 @@
+- Improved code readability
+- Set swappiness to 60% to reduce cpu overhead
+- Added scheduler tweaks back
+- Optional: TCP timestamps can be disabled via config (default unchanged)
+- Enabled TCP low latency mode
+- Set kernel.perf_cpu_time_max_percent to 10 to reduce cpu overhead
+- Enabled CRF by default
